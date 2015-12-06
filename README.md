@@ -1,3 +1,3 @@
-# allyoucaneatfor3
+# civicrm-tools
 
 Random code pieces
